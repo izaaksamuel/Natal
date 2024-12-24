@@ -1,0 +1,13 @@
+{
+    "name": "natal",
+    "start_url": "/natal",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
